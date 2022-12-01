@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1664889600 source:c:\users\laboratorios\desktop\03_10\coladinamica\main.c
+	"ColaDinamica.h"
+
+1664889637 c:\users\laboratorios\desktop\03_10\coladinamica\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1664889646 source:c:\users\laboratorios\desktop\03_10\coladinamica\funciones.c
+	"ColaDinamica.h"
+
+1664890700 source:c:\users\admin\desktop\ejercicios c\tdacola\coladinamica\coladinamica\funciones.c
+	"ColaDinamica.h"
+
+1664889638 c:\users\admin\desktop\ejercicios c\tdacola\coladinamica\coladinamica\coladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
